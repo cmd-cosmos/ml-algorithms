@@ -2,3 +2,6 @@
 .venv/
 
 **/CNN/datasets
+
+# pytorch mnist data 
+**/pytorch/data
